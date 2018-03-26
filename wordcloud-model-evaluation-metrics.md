@@ -7,7 +7,7 @@ Accuracy
 Precision
 Recall
 F1~Score
-F2~Score
+F-Beta~Score
 Confusion~Matrix
 Log-loss
 Area~Under~ROC~Curve
@@ -16,3 +16,4 @@ Root~Mean~Squared~Error
 R~Squared
 Sensitivity
 Specificity
+Harmonic~Mean
