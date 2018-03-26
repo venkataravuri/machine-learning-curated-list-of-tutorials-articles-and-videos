@@ -3,3 +3,16 @@ Variance
 Trade-Off
 Overfitting
 Underfitting
+Accuracy
+Precision
+Recall
+F1~Score
+F2~Score
+Confusion~Matrix
+Log-loss
+Area~Under~ROC~Curve
+Mean~Absolute~Error
+Root~Mean~Squared~Error
+R~Squared
+Sensitivity
+Specificity
