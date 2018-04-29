@@ -12,3 +12,12 @@ Number of clusters in a k-means clustering
 
 References
 https://www.quora.com/What-are-hyperparameters-in-machine-learning
+
+
+## Curated list of articles
+
+### Natural Language Processing (NLP)
+
+#### TFIDF Overview
+
+https://www.quora.com/How-does-TfidfVectorizer-work-in-laymans-terms
