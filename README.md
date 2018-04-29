@@ -14,10 +14,19 @@ References
 https://www.quora.com/What-are-hyperparameters-in-machine-learning
 
 
-## Curated list of articles
+# Curated list of articles
 
-### Natural Language Processing (NLP)
+## Natural Language Processing (NLP)
 
 #### TFIDF Overview
 
 https://www.quora.com/How-does-TfidfVectorizer-work-in-laymans-terms
+
+## Feature Engineering
+
+### Categorical Features Encoding
+
+Part 1: https://blog.myyellowroad.com/using-categorical-data-in-machine-learning-with-python-from-dummy-variables-to-deep-category-66041f734512
+Part 2: https://blog.myyellowroad.com/using-categorical-data-in-machine-learning-with-python-from-dummy-variables-to-deep-category-42fd0a43b009
+
+
