@@ -22,6 +22,9 @@ https://www.quora.com/What-are-hyperparameters-in-machine-learning
 
 https://www.quora.com/How-does-TfidfVectorizer-work-in-laymans-terms
 
+#### Tutorials
+https://www.youtube.com/watch?v=xvqsFTUsOmc
+
 ## Feature Engineering
 
 ### Categorical Features Encoding
