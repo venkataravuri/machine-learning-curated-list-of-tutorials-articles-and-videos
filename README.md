@@ -1,20 +1,21 @@
-## Machine Learning Tutorials, Articles, Guides, Notes & Videos
+## Machine Learning - Tutorials, Articles, Guides, Notes & Videos
 A curated list of machine learning tutorials, articles, guides and videos.
 
 ## Contents
 * [Machine Learning Algorithms](#machine-learning-algorithms)
-* [Natural Language Processing (NLP)](#nlp)
+* [Natural Language Processing (NLP)](#natural-language-processing-nlp)
+* [Neural Networks, Deep Learning](#nn)
 * [Machine Learning with Python](#ml-python)
 * [News & Magzines](#news)
 
-## [Machine Learning Algorithms](#machine-learning-algorithms)
+## Machine Learning Algorithms (#machine-learning-algorithms)
 - [Support Vector Machine (SVM) Tutorial](https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93)
 
-## Natural Language Processing (NLP)(#nlp)
+## Natural Language Processing (NLP)
 #### TFIDF Overview
 https://www.quora.com/How-does-TfidfVectorizer-work-in-laymans-terms
 
-#### Videos
+#### Videos :tv:
 https://www.youtube.com/watch?v=xvqsFTUsOmc
 
 ## Feature Engineering
