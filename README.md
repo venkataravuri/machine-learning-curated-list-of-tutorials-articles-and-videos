@@ -1,4 +1,15 @@
-# Artificial Intelligence / Machine Learning Notes
+# A curated list of Machine Learning Tutorials, Articles, Guides, Notes & Videos
+
+
+# Contents
+Machine Learning Algorithms
+Natural Language Processing (NLP)
+Machine Learning with Python
+
+
+
+Machine Learning Algorithms
+Support Vector Machine (SVM) Tutorial - https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93
 
 ### What is hyper parameter?
 They are simply the very "knobs" one "turns" when building/tuning a statistical learning model.  For example, in stochastic gradient descent, one of these can be the learning rate (or "step size" coefficient).  The reason for denoting one of these adjustable values in a machine learning algorithm with the prefix "hyper-" is to explicitly say that it is not a "model parameter" that is optimized/learned during a training phase (and instead is set by the human designer a priori, or adjusted automatically via external model mechanisms).  In the literature, hyper-parameters have also been referred to as "meta-parameters" and "free parameters".
@@ -32,4 +43,12 @@ https://www.youtube.com/watch?v=xvqsFTUsOmc
 Part 1: https://blog.myyellowroad.com/using-categorical-data-in-machine-learning-with-python-from-dummy-variables-to-deep-category-66041f734512
 Part 2: https://blog.myyellowroad.com/using-categorical-data-in-machine-learning-with-python-from-dummy-variables-to-deep-category-42fd0a43b009
 
+
+Machine learning with Python (Scikit-learn)
+
+Machine Learning with scikit learn Part One | SciPy 2017 Tutorial | Andreas Mueller & Alexandre Gram
+
+Jake VanderPlas - Machine Learning with Scikit-Learn (I) - PyCon 2015
+
+Machine Learning by Andrew Ng [ Full Course ]
 
