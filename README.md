@@ -1,40 +1,44 @@
 ## Machine Learning - Tutorials, Articles, Guides, Notes & Videos
-A curated list of machine learning tutorials, articles, guides and videos.
+A curated list of machine learning tutorials, articles, guides and videos. :scroll: :book: :tv:
 
 ## Contents
 * [Machine Learning Algorithms](#machine-learning-algorithms)
 * [Natural Language Processing (NLP)](#natural-language-processing-nlp)
-* [Neural Networks, Deep Learning](#nn)
-* [Machine Learning with Python](#ml-python)
-* [News & Magzines](#news)
+* [Neural Networks, Deep Learning](#neural-networks-deep-learning)
+* [Machine Learning with Python](#machine-learning-with-python-scikit-learn)
+* [News & Magazines](#news-magazines)
 
-## Machine Learning Algorithms (#machine-learning-algorithms)
+## Machine Learning Algorithms
+
+### Algorithms
 - [Support Vector Machine (SVM) Tutorial](https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93)
+
+### Concepts
+#### Feature Engineering
+
+##### Categorical Features Encoding
+- [Categorical Features Encoding - Part 1](https://blog.myyellowroad.com/using-categorical-data-in-machine-learning-with-python-from-dummy-variables-to-deep-category-66041f734512)
+- [Categorical Features Encoding - Part 2](https://blog.myyellowroad.com/using-categorical-data-in-machine-learning-with-python-from-dummy-variables-to-deep-category-42fd0a43b009)
+
 
 ## Natural Language Processing (NLP)
 #### TFIDF Overview
 https://www.quora.com/How-does-TfidfVectorizer-work-in-laymans-terms
 
-#### Videos :tv:
+### Videos :tv:
 https://www.youtube.com/watch?v=xvqsFTUsOmc
 
-## Feature Engineering
-
-### Categorical Features Encoding
-- [Categorical Features Encoding - Part 1](https://blog.myyellowroad.com/using-categorical-data-in-machine-learning-with-python-from-dummy-variables-to-deep-category-66041f734512)
-- [Categorical Features Encoding - Part 2](https://blog.myyellowroad.com/using-categorical-data-in-machine-learning-with-python-from-dummy-variables-to-deep-category-42fd0a43b009)
 
 
-## Machine learning with Python (Scikit-learn)(#ml-python)
+## Machine learning with Python (Scikit-learn)
 - Machine Learning with scikit learn Part One | SciPy 2017 Tutorial | Andreas Mueller & Alexandre Gram
 - Jake VanderPlas - Machine Learning with Scikit-Learn (I) - PyCon 2015
 
 ## Courses
 - Machine Learning by Andrew Ng [ Full Course ]
 
-## News & Magzines (#news)
+## News & Magazines (#news) 
 - Data Elixir Weekly News](https://dataelixir.com/)
-
 
 ### What is hyper parameter?
 They are simply the very "knobs" one "turns" when building/tuning a statistical learning model.  For example, in stochastic gradient descent, one of these can be the learning rate (or "step size" coefficient).  The reason for denoting one of these adjustable values in a machine learning algorithm with the prefix "hyper-" is to explicitly say that it is not a "model parameter" that is optimized/learned during a training phase (and instead is set by the human designer a priori, or adjusted automatically via external model mechanisms).  In the literature, hyper-parameters have also been referred to as "meta-parameters" and "free parameters".
