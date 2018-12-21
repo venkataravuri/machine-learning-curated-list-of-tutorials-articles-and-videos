@@ -1,15 +1,39 @@
-# A curated list of Machine Learning Tutorials, Articles, Guides, Notes & Videos
+## Machine Learning Tutorials, Articles, Guides, Notes & Videos
+A curated list of machine learning tutorials, articles, guides and videos.
+
+## Contents
+* [Machine Learning Algorithms](#machine-learning-algorithms)
+* [Natural Language Processing (NLP)](#nlp)
+* [Machine Learning with Python](#ml-python)
+* [News & Magzines](#news)
+
+## [Machine Learning Algorithms](#machine-learning-algorithms)
+- [Support Vector Machine (SVM) Tutorial](https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93)
+
+## Natural Language Processing (NLP)(#nlp)
+#### TFIDF Overview
+https://www.quora.com/How-does-TfidfVectorizer-work-in-laymans-terms
+
+#### Videos
+https://www.youtube.com/watch?v=xvqsFTUsOmc
+
+## Feature Engineering
+
+### Categorical Features Encoding
+- [Categorical Features Encoding - Part 1](https://blog.myyellowroad.com/using-categorical-data-in-machine-learning-with-python-from-dummy-variables-to-deep-category-66041f734512)
+- [Categorical Features Encoding - Part 2](https://blog.myyellowroad.com/using-categorical-data-in-machine-learning-with-python-from-dummy-variables-to-deep-category-42fd0a43b009)
 
 
-# Contents
-Machine Learning Algorithms
-Natural Language Processing (NLP)
-Machine Learning with Python
+## Machine learning with Python (Scikit-learn)(#ml-python)
+- Machine Learning with scikit learn Part One | SciPy 2017 Tutorial | Andreas Mueller & Alexandre Gram
+- Jake VanderPlas - Machine Learning with Scikit-Learn (I) - PyCon 2015
 
+## Courses
+- Machine Learning by Andrew Ng [ Full Course ]
 
+## News & Magzines (#news)
+- Data Elixir Weekly News](https://dataelixir.com/)
 
-Machine Learning Algorithms
-Support Vector Machine (SVM) Tutorial - https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93
 
 ### What is hyper parameter?
 They are simply the very "knobs" one "turns" when building/tuning a statistical learning model.  For example, in stochastic gradient descent, one of these can be the learning rate (or "step size" coefficient).  The reason for denoting one of these adjustable values in a machine learning algorithm with the prefix "hyper-" is to explicitly say that it is not a "model parameter" that is optimized/learned during a training phase (and instead is set by the human designer a priori, or adjusted automatically via external model mechanisms).  In the literature, hyper-parameters have also been referred to as "meta-parameters" and "free parameters".
@@ -23,32 +47,3 @@ Number of clusters in a k-means clustering
 
 References
 https://www.quora.com/What-are-hyperparameters-in-machine-learning
-
-
-# Curated list of articles
-
-## Natural Language Processing (NLP)
-
-#### TFIDF Overview
-
-https://www.quora.com/How-does-TfidfVectorizer-work-in-laymans-terms
-
-#### Tutorials
-https://www.youtube.com/watch?v=xvqsFTUsOmc
-
-## Feature Engineering
-
-### Categorical Features Encoding
-
-Part 1: https://blog.myyellowroad.com/using-categorical-data-in-machine-learning-with-python-from-dummy-variables-to-deep-category-66041f734512
-Part 2: https://blog.myyellowroad.com/using-categorical-data-in-machine-learning-with-python-from-dummy-variables-to-deep-category-42fd0a43b009
-
-
-Machine learning with Python (Scikit-learn)
-
-Machine Learning with scikit learn Part One | SciPy 2017 Tutorial | Andreas Mueller & Alexandre Gram
-
-Jake VanderPlas - Machine Learning with Scikit-Learn (I) - PyCon 2015
-
-Machine Learning by Andrew Ng [ Full Course ]
-
