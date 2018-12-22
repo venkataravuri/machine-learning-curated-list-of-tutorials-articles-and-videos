@@ -1,5 +1,5 @@
 ## Machine Learning - Tutorials, Articles, Guides, Notes & Videos
-A curated list of machine learning tutorials, articles, guides and videos. :scroll: :book: :tv:
+A curated list of machine learning tutorials, articles, guides and videos. :book: :scroll: :tv:
 
 ## Contents
 * [Machine Learning Algorithms](#machine-learning-algorithms)
@@ -14,21 +14,26 @@ A curated list of machine learning tutorials, articles, guides and videos. :scro
 - [Support Vector Machine (SVM) Tutorial](https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93)
 
 ### Concepts
+
+#### Exploratory Data Analysis & Data Visulaization
+- [Top 50 matplotlib Visualizations – (with python code)](#https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python)
+
 #### Feature Engineering
 
 ##### Categorical Features Encoding
 - [Categorical Features Encoding - Part 1](https://blog.myyellowroad.com/using-categorical-data-in-machine-learning-with-python-from-dummy-variables-to-deep-category-66041f734512)
 - [Categorical Features Encoding - Part 2](https://blog.myyellowroad.com/using-categorical-data-in-machine-learning-with-python-from-dummy-variables-to-deep-category-42fd0a43b009)
 
-##### [What is Hyper Parameter?](ml-concepts.md#what-is-hyper-parameter)
+##### Concepts
+- [What is Hyper Parameter?](ml-concepts.md#what-is-hyper-parameter)
 
 
 ## Natural Language Processing (NLP)
 #### TFIDF Overview
-https://www.quora.com/How-does-TfidfVectorizer-work-in-laymans-terms
+- https://www.quora.com/How-does-TfidfVectorizer-work-in-laymans-terms
 
 ### Videos :tv:
-https://www.youtube.com/watch?v=xvqsFTUsOmc
+- https://www.youtube.com/watch?v=xvqsFTUsOmc
 
 
 ## Machine learning with Python (Scikit-learn)
@@ -38,5 +43,5 @@ https://www.youtube.com/watch?v=xvqsFTUsOmc
 ## Courses
 - Machine Learning by Andrew Ng [ Full Course ]
 
-## News & Magazines (#news) 
-- Data Elixir Weekly News](https://dataelixir.com/)
+## News & Magazines
+- [Data Elixir Weekly News](https://dataelixir.com/)
